@@ -2,7 +2,7 @@
 
 <img src="data/GPS plotter.png" align="left" width="175" height="175">
 
-Welcome to the GPS-Plotter app, a user-friendly tool for visualizing GPS data. The app is built using the [Shiny](https://shiny.rstudio.com/) framework in [R](https://www.r-project.org/). It is designed to be easy to use and deploy, and it can be hosted on platforms like [shinyapps.io](https://www.shinyapps.io/).
+Welcome to the GPS-Plotter app, a user-friendly tool for visualising GPS data. The app is built using the [Shiny](https://shiny.rstudio.com/) framework in [R](https://www.r-project.org/). It is designed to be easy to use and deploy, and it can be hosted on platforms like [shinyapps.io](https://www.shinyapps.io/).
 
 ---
       
@@ -38,9 +38,9 @@ Alternatively, if you prefer to run the app locally or want to make custom modif
 
 The GPS-Plotter app provides the following features:
 
-- **Visualize GPS Data**: Upload your GPS data in various formats (GPX, KML, etc.) to visualize your routes on an interactive map.
+- **Visualize GPS Data**: Upload your GPS data in decimal longitude latitude format to visualise your routes on an interactive map.
 
-- **Data Exploration**: Explore the details of your GPS data, including waypoints, trackpoints, and routes.
+- **Data Exploration**: Explore the details of your GPS data.
 
 - **Easy Deployment**: The app is easy to deploy, and it can be hosted on platforms like [shinyapps.io](https://www.shinyapps.io/).
 
