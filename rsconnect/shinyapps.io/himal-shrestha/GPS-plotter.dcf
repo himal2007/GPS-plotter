@@ -1,0 +1,12 @@
+name: GPS-plotter
+title: GPS-plotter
+username: himal-shrestha
+account: himal-shrestha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10168076
+bundleId: 7792783
+url: https://himal-shrestha.shinyapps.io/GPS-plotter/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
