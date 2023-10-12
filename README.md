@@ -1,6 +1,6 @@
 # GPS-Plotter App
 
-<img src="data/GPS plotter.png" align="left" width="200" height="200">
+<img src="data/GPS_plotter.png" align="left" width="200" height="200">
 
 Welcome to the GPS-Plotter app, a user-friendly tool for visualizing GPS data. The app is built using the [Shiny](https://shiny.rstudio.com/) framework in [R](https://www.r-project.org/). It is designed to be easy to use and deploy, and it can be hosted on platforms like [shinyapps.io](https://www.shinyapps.io/).
 
@@ -36,7 +36,7 @@ Alternatively, if you prefer to run the app locally or want to make custom modif
 
 The GPS-Plotter app provides the following features:
 
-- **Visualize GPS Data**: Upload your GPS data in various formats (GPX, KML, etc.) to visualize your routes on an interactive map.
+- **Visualise GPS Data**: Upload your GPS data in various formats (GPX, KML, etc.) to visualize your routes on an interactive map.
 
 - **Data Exploration**: Explore the details of your GPS data, including waypoints, trackpoints, and routes.
 
@@ -46,6 +46,6 @@ The GPS-Plotter app provides the following features:
 
 If you encounter any issues, have suggestions, or want to contribute to this project, feel free to open an issue or submit a pull request on GitHub.
 
-**Disclaimer**: This app is provided as-is without any warranty. Use at your own discretion and responsibility. The authors and contributors are not liable for any data loss or inaccuracies that may occur while using the app.
-
 Happy mapping and exploring your GPS data with the GPS-Plotter app!
+
+>**Disclaimer**: This app is provided as-is without any warranty. Use at your own discretion and responsibility. The authors and contributors are not liable for any data loss or inaccuracies that may occur while using the app.

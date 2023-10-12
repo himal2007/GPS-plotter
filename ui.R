@@ -10,6 +10,12 @@ ui <- fluidPage(
     title = "Nematode and Vector Genomics Lab | La Trobe University, Australia",
     id = "nav",
     
+    header = fluidRow(
+      column(
+        width = 2,  # Adjust the width as needed
+        img(src = "your_logo.png", width = "50%")  # Adjust the image file path and size
+      )
+    ),
     tabPanel(
       title = "Upload data",
       
@@ -19,7 +25,12 @@ ui <- fluidPage(
           wellPanel(
             p("You can use this app to map GPS coordinates from a spreadsheet."),
             p("Please download and complete a copy of the map-gps.xlsx file."),
-            p("When finished, upload your file and click continue. Your file will be checked for errors.")
+            p("When finished, upload your file and click continue. Your file will be checked for errors."),
+            
+            div(
+              "NOTE: The longitude and latitude must be in the decimal format (e.g. -37.123456, 145.123456); not in degrees or UTM.",
+              style = "color: red; font-weight: bold;"
+            )
           )
         )
       ),

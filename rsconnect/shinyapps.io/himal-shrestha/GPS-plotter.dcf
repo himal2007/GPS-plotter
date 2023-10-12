@@ -5,7 +5,7 @@ account: himal-shrestha
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10168076
-bundleId: 7792783
+bundleId: 7793703
 url: https://himal-shrestha.shinyapps.io/GPS-plotter/
 version: 1
 asMultiple: FALSE
