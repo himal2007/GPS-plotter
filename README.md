@@ -4,7 +4,7 @@
 
 Welcome to the GPS-Plotter app, a user-friendly tool for visualizing GPS data. The app is built using the [Shiny](https://shiny.rstudio.com/) framework in [R](https://www.r-project.org/). It is designed to be easy to use and deploy, and it can be hosted on platforms like [shinyapps.io](https://www.shinyapps.io/).
 
-
+---
       
 ## Getting Started
 
